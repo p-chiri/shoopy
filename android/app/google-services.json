@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "91380265549",
+    "project_id": "rentit-7cfc6",
+    "storage_bucket": "rentit-7cfc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91380265549:android:bf7b82a1bc7d40e134e204",
+        "android_client_info": {
+          "package_name": "com.example.rentit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91380265549-m5e93vm931k9s82d2ajjscgqfo40446e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentit",
+            "certificate_hash": "3e935199b823a945afee4cfee919dcda656d5b77"
+          }
+        },
+        {
+          "client_id": "91380265549-bilv09dua4u1faai0a35bktmp32dhu6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JfUSITC_Gr4BIb5sqhkPJy1d__tKyZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91380265549-8cj6j7qnbo2jqknijbkbagahl4nngtd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91380265549-au3pdlmtlso8j08ln5dj8ijf21ktin4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rentit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
